@@ -1,18 +1,18 @@
 {
-  "name": "spacelab-base.links",
+  "name": "spacelab-base.lists",
   "version": "0.1.1",
   "authors": [
     "Axel Salder",
     "Daniel Blomeyer"
   ],
   "description": "here be a description",
-  "main": "_base.links.scss",
+  "main": "_base.lists.scss",
   "keywords": [
     "spacelab",
     "css"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/spacelab/base.links/",
+  "homepage": "https://github.com/spacelab/base.lists/",
   "private": true,
   "ignore": [
     "**/.*",
