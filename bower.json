@@ -1,0 +1,24 @@
+{
+  "name": "spacelab-base.links",
+  "version": "0.1.1",
+  "authors": [
+    "Axel Salder",
+    "Daniel Blomeyer"
+  ],
+  "description": "here be a description",
+  "main": "_base.links.scss",
+  "keywords": [
+    "spacelab",
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/spacelab/base.links/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
