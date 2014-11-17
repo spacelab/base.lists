@@ -1,7 +1,11 @@
-li {
+ul,
+ol,
+dl {
+  @extend %trailing;
 
   > ul,
-  > ol {
+  > ol,
+  > dl {
     margin: 0;
   }
 }
