@@ -1,7 +1,7 @@
 ul,
 ol,
 dl {
-  @extend %trailing;
+  margin-bottom: rem($spacing);
 
   > ul,
   > ol,
