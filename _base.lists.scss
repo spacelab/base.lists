@@ -2,10 +2,11 @@ ul,
 ol,
 dl {
   margin: 0 0 rem($base-spacing);
+}
 
+li {
   > ul,
-  > ol,
-  > dl {
+  > ol {
     margin: 0;
   }
 }
